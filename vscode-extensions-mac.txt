@@ -1,0 +1,13 @@
+amodio.toggle-excluded-files
+adpyke.codesnap
+equinusocio.moxer-icons
+github.copilot-chat
+github.copilot
+eamodio.gitlens
+drcika.apc-extension
+christian-kohler.path-intellisense
+usernamehw.errorlens
+streetsidesoftware.code-spell-checker
+ritwickdey.liveserver
+daltonmenezes.aura-theme
+esbenp.prettier-vscode
