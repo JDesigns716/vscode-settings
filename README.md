@@ -21,7 +21,7 @@ Full list of extensions [here](https://gist.github.com/JDesigns716/4983eb97cbd49
   - [Moonlight](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight) - Moonlight II
 
 - File Icons:
-  [Moxer Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-icons)
+  - [Moxer Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-icons)
 
 ## IntelliSense/AutoComplete
 
