@@ -7,7 +7,7 @@
   // Change font
   "editor.fontFamily": "Geist Mono",
   "scm.inputFontFamily": "Geist Mono",
-  "terminal.integrated.fontFamily": "GeistMono Nerd Font Mono",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
   "chat.editor.fontFamily": "Geist Mono",
   "debug.console.fontFamily": "Geist Mono",
   "editor.codeLensFontFamily": "Geist Mono",
@@ -29,13 +29,6 @@
     "hideSettings": true,
     "size": 28
   },
-  "apc.electron": {
-    "titleBarStyle": "hiddenInset",
-    "trafficLightPosition": {
-      "x": 12,
-      "y": 10
-    }
-  },
   "apc.font.family": "Geist Mono",
   "apc.monospace.font.family": "Geist Mono",
   "apc.statusBar": {
@@ -51,7 +44,7 @@
     ".tabs-and-actions-container > .editor-actions": "display: none !important;",
     ".titleBar-center": "display: none !important;",
     ".titleBar-right": "display: none !important;",
-    "inline-tabs-placeholder": "display: none !important;",
+    ".inline-tabs-placeholder": "display: none !important;",
     ".split-view-view .visible": "background-color: #110f17 !important;"
   },
   // Aura theme customizations
@@ -65,7 +58,6 @@
       "tab.inactiveBackground": "#110f17"
     }
   },
-
   // Toggle excluded files
   "files.exclude": {
     "**/.git": true,
@@ -102,8 +94,7 @@
     "**/migrate.ts": true,
     "**/.env.example": true
   },
-
-  //   Misc
+  // Misc
   "workbench.startupEditor": "none",
   "explorer.compactFolders": true,
   "editor.tabSize": 2,
@@ -115,15 +106,23 @@
   },
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
-
-  // Personal settings
   "editor.mouseWheelZoom": true,
   "editor.wordWrap": "on",
   "editor.cursorBlinking": "smooth",
+  "terminal.external.windowsExec": "C:\\Users\\iPwnN\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma-insider"
+  },
   "workbench.editor.enablePreview": false,
+  "[xml]": {
+    "editor.defaultFormatter": "DotJoshJohnson.xml"
+  },
+  "terminal.integrated.env.windows": {},
+  "liveServer.settings.donotShowInfoMsg": true,
   "cSpell.userWords": [
+    "blit",
     "donot",
     "esbenp",
     "lintstagedrc",
